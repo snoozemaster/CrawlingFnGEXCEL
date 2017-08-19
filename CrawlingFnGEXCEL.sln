@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CrawlingFnGEXCEL", "CrawlingFnGEXCEL\CrawlingFnGEXCEL.pyproj", "{22E6E1CD-1059-4D0C-8A87-F853AC20B02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E6E1CD-1059-4D0C-8A87-F853AC20B02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E6E1CD-1059-4D0C-8A87-F853AC20B02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12657813-FC3B-4273-AE38-3E4F10850B07}
+	EndGlobalSection
+EndGlobal
